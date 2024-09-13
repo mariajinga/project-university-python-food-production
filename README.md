@@ -11,10 +11,12 @@ In this project, I chose to develop software for data analysis focused on food p
 
 În acest proiect, am ales să dezvolt un software pentru analiza datelor legate de producția alimentară în țările din Europa, utilizând metode de reducere a dimensionalității precum **Analiza în Componente Principale (ACP)** și **Analiza Factorială (AF)**. Alegerea temei a fost determinată de importanța producției alimentare în contextul economic și social, precum și de accesibilitatea datelor pe platforma Kaggle.
 
+
 ### Motivation for Choosing the Project | Motivația alegerii proiectului
 I decided to focus on food production in Europe due to the region’s high diversity and complexity in resource management. I aimed to gain a detailed understanding of the economic and social factors that influence food production in this specific area. The dataset used was translated and narrowed down to European countries to offer a more focused analysis.
 
 Am decis să mă concentrez pe producția alimentară din Europa deoarece această regiune prezintă o diversitate și complexitate ridicată în gestionarea resurselor. De asemenea, am dorit să obțin o perspectivă detaliată asupra factorilor economici și sociali care influențează producția de hrană în această zonă. Setul de date utilizat a fost tradus și restrâns la nivelul Europei pentru a oferi o analiză specifică regiunii.
+
 
 ### What the Project Covers | Ce prezint în proiect
 The project focuses on two main dimensionality reduction methods:
@@ -24,6 +26,7 @@ The project focuses on two main dimensionality reduction methods:
 Proiectul se axează pe două metode principale de reducere a dimensionalității:
 1. **Analiza în Componente Principale (ACP)**: Aceasta metodă sintetizează variabilele inițiale într-un număr mai mic de componente care rețin cea mai mare parte din variația datelor. Am realizat diverse tabele și grafice care reflectă varianta componentelor principale și relațiile dintre variabile.
 2. **Analiza Factorială (AF)**: Similar cu ACP, analiza factorială explorează structura internă a datelor pentru a identifica corelații între variabile. Proiectul include tabele și grafice cu rotație și fără rotație a factorilor, comunalități și hărți de scoruri factoriale.
+
 
 ### Key Elements Presented | Elemente importante prezentate
 - **Variable Description**: The dataset contains food production data from 40 European countries, including products like corn, wheat, rice, chicken meat, and other key food items.
@@ -40,3 +43,27 @@ Through this project, I successfully extracted essential insights into food prod
 Prin acest proiect, am reușit să obțin informații esențiale despre tendințele producției alimentare în Europa și să ofer o analiză detaliată a datelor, folosind metode moderne de reducere a dimensionalității.
 
 ************************************************************************
+
+# Results / Rezultate
+![b](https://github.com/user-attachments/assets/1959e4bf-2f2e-4b59-a7be-30d5b253f803)
+************************************************************************
+![c](https://github.com/user-attachments/assets/b718c7f1-eae6-4d0b-b7f4-3a2193cb446e)
+************************************************************************
+![v](https://github.com/user-attachments/assets/349b1783-42ce-4af9-b72d-f6452fad5105)
+************************************************************************
+## Graphical Representation of Data / Reprezentare grafică a datelor
+![g1](https://github.com/user-attachments/assets/e292d3f5-44e5-4d27-87da-014fb11af730)
+************************************************************************
+![g2](https://github.com/user-attachments/assets/afc145d2-980c-4f44-be81-77c981020571)
+************************************************************************
+![g3](https://github.com/user-attachments/assets/f9831d2b-d334-43fc-978a-f7645a3ac3a2)
+************************************************************************
+![g4](https://github.com/user-attachments/assets/5f129710-d161-486b-97e5-7a7e896e5521)
+************************************************************************
+![g5](https://github.com/user-attachments/assets/4fbbafd9-932f-4929-a1c7-3367a67d5272)
+************************************************************************
+![g6](https://github.com/user-attachments/assets/7086c320-6ee9-419b-a218-4a38495bc6e4)
+************************************************************************
+![g7](https://github.com/user-attachments/assets/74ecaba9-0acc-4962-a68f-364f698ca98c)
+
+---
